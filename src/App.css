@@ -1,0 +1,39 @@
+
+
+ .main-content{
+    display:  grid;  
+    place-items: center; 
+ }
+.App-link {
+  color: #61dafb;
+}
+
+ 
+input,textarea  {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: block;
+  border: 1px solid #000000;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+button {
+  width: 100%; 
+  position: relative;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: block;
+  border: 1px solid #000000;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: #0d100d;
+  color: #ffffff;
+}
+ 
+ 
+ 
